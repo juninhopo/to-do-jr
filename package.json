@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.0"
+  },
+  "name": "to-do-jr",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juninhopo/to-do-jr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juninhopo/to-do-jr/issues"
+  },
+  "homepage": "https://github.com/juninhopo/to-do-jr#readme"
+}
